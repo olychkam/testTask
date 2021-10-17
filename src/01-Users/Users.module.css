@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.filtersContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.packItem td {
+    padding: 10px 30px 10px 0;
+    font-family: 'Sintony', sans-serif;
+
+}
+
+.packItem a:hover {
+    color: #606fbf;
+}
+
+.address {
+    padding: 20px;
+}
+
+.modalContainer {
+    text-align: center;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: 'Sintony', sans-serif;
+}
